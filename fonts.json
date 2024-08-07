@@ -1,0 +1,16 @@
+{
+    "fonts": [
+        "fonts/SFUFuturaBold.TTF",
+        "fonts/SFUFuturaBoldOblique.TTF",
+        "fonts/SFUFuturaBook.TTF",
+        "fonts/SFUFuturaBookOblique.TTF",
+        "fonts/SFUFuturaExtraBoldOblique.TTF",
+        "fonts/SFUFuturaExtraBold.TTF",
+        "fonts/SFUFuturaHeavy.TTF",
+        "fonts/SFUFuturaHeavyOblique.TTF",
+        "fonts/SFUFuturaLight.TTF",
+        "fonts/SFUFuturaLightOblique.TTF",
+        "fonts/SFUFuturaRegular.TTF",
+        "fonts/SFUFuturaObliqueTTF.TTF"
+    ]
+}
